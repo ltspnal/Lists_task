@@ -1,8 +1,8 @@
 # Python Exercises: Working with Lists
 This repository contains Python scripts that demonstrate various operations and tasks related to working with lists in Python.
 
-Task Descriptions:
-Task 1: Create a list of numbers from 1 to 10 and print it.
+# Task Descriptions:
+# Task 1: Create a list of numbers from 1 to 10 and print it.
 Task 2: Create a list of fruit names, add a new fruit, and print the updated list.
 Task 3: Prompt the user to input a list of numbers, then print only the even numbers from that list.
 Task 4: Create two lists of numbers, merge them into one list, and sort it in ascending order.
